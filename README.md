@@ -1,4 +1,4 @@
 plg_system_terebinth
-====================
+===================
 
-Terebinth System Plugin
+See https://github.com/nwheeler/terebinth
